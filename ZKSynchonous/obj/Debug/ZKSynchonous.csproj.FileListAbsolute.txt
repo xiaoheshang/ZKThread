@@ -1,0 +1,4 @@
+E:\dotnet\projects\学习项目\ZKThread\ZKSynchonous\bin\Debug\ZKSynchonous.exe
+E:\dotnet\projects\学习项目\ZKThread\ZKSynchonous\bin\Debug\ZKSynchonous.pdb
+E:\dotnet\projects\学习项目\ZKThread\ZKSynchonous\obj\Debug\ZKSynchonous.exe
+E:\dotnet\projects\学习项目\ZKThread\ZKSynchonous\obj\Debug\ZKSynchonous.pdb
