@@ -1,0 +1,5 @@
+E:\dotnet\projects\学习项目\ZKThread\ZKDeadLock\bin\Debug\ZKDeadLock.exe
+E:\dotnet\projects\学习项目\ZKThread\ZKDeadLock\bin\Debug\ZKDeadLock.pdb
+E:\dotnet\projects\学习项目\ZKThread\ZKDeadLock\obj\Debug\ZKDeadLock.csprojResolveAssemblyReference.cache
+E:\dotnet\projects\学习项目\ZKThread\ZKDeadLock\obj\Debug\ZKDeadLock.exe
+E:\dotnet\projects\学习项目\ZKThread\ZKDeadLock\obj\Debug\ZKDeadLock.pdb
