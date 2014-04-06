@@ -1,0 +1,5 @@
+E:\dotnet\projects\学习项目\ZKThread\ZKCancelFramework\bin\Debug\ZKCancelFramework.exe
+E:\dotnet\projects\学习项目\ZKThread\ZKCancelFramework\bin\Debug\ZKCancelFramework.pdb
+E:\dotnet\projects\学习项目\ZKThread\ZKCancelFramework\obj\Debug\ZKCancelFramework.csprojResolveAssemblyReference.cache
+E:\dotnet\projects\学习项目\ZKThread\ZKCancelFramework\obj\Debug\ZKCancelFramework.exe
+E:\dotnet\projects\学习项目\ZKThread\ZKCancelFramework\obj\Debug\ZKCancelFramework.pdb
